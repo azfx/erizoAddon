@@ -1,0 +1,22 @@
+{
+  "name": "erizoAddon",
+  "version": "0.2.0",
+  "description": "ErizoAddon",
+  "main": "addon.node",
+  "scripts": {
+    "test": "echo "Error: no test specified" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/azfx/erizoAddon.git"
+  },
+  "keywords": [
+    "erizo",
+    "webrtcconnection"
+  ],
+  "author": "Abdul Zalil <abdul.zalil@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/azfx/erizoAddon/issues"
+  }
+}
