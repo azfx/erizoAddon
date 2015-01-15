@@ -1,1 +1,1 @@
-var exports = module.exports = require('addon');
+var exports = module.exports = require('./addon');
