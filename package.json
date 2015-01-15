@@ -2,7 +2,7 @@
   "name": "erizoAddon",
   "version": "0.2.0",
   "description": "ErizoAddon",
-  "main": "addon.node",
+  "main": "addon",
   "scripts": {
     "test": "echo 'Error: no test specified' && exit 1"
   },
