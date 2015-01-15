@@ -1,0 +1,2 @@
+# erizoAddon
+Licode Erizo Addon
